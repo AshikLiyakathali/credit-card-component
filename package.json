@@ -6,7 +6,7 @@
     "antd": "^3.26.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-native": "^0.61.5",
+    "react-native": "^0.62.3",
     "react-scripts": "3.2.0",
     "redux": "^4.0.4"
   },
